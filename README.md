@@ -4,7 +4,7 @@ Ensemble Model Framework for Airbnb Rental Price Forecasting
 Notes for Krishna:
 
 
-1) LassoCV is taking too long to run, do you know a make it faster?
+1) LassoCV is taking too long to run, it might be due to multicollinearity
 
 
 2) XGBoost feature selection not working at the moment due to negative R2 values produced by the models
